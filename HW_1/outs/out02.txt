@@ -1,0 +1,31 @@
+Container contains 6 elements:
+1. Text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+   Text code: 95.75
+   Pair crypt: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 
+   Shift crypt: jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj)
+   Numeric crypt: 97979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979732
+2. Text: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb 
+   Text code: 96.7308
+   Pair crypt: 333333333333333333333333333333333333333333333333333 
+   Shift crypt: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee#
+   Numeric crypt: 98989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989832
+3. Text: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy 
+   Text code: 119.288
+   Pair crypt: ddddddddddddddddddddddddddddddddddddddddddddddddddd 
+   Shift crypt: ‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡.
+   Numeric crypt: 12112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112112132
+4. Text: zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 
+   Text code: 120.269
+   Pair crypt: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee 
+   Shift crypt: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+   Numeric crypt: 12212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212212232
+5. Text: 111111111111111111111111111111111111111111111111111 
+   Text code: 48.6731
+   Pair crypt: 555555555555555555555555555555555555555555555555555 
+   Shift crypt: 222222222222222222222222222222222222222222222222222!
+   Numeric crypt: 49494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494932
+6. Text: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+   Text code: 118.308
+   Pair crypt: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 
+   Shift crypt: „„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„,
+   Numeric crypt: 12012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012012032
