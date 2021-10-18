@@ -1,3 +1,0 @@
-//wsl$/Ubuntu/home/futuzer/HW_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-//wsl$/Ubuntu/home/futuzer/HW_2/cmake-build-debug/CMakeFiles/HW_2.dir
-//wsl$/Ubuntu/home/futuzer/HW_2/cmake-build-debug/CMakeFiles/edit_cache.dir
