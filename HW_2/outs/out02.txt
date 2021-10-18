@@ -1,0 +1,37 @@
+======================================================================
+ Message text: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ Message code: 97
+   Pair crypt: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+  Shift crypt: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Numeric crypt: 979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797
+======================================================================
+ Message text: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ Message code: 98
+   Pair crypt: 333333333333333333333333333333333333333333333333333
+  Shift crypt: jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+Numeric crypt: 989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898989898
+======================================================================
+ Message text: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+ Message code: 121
+   Pair crypt: ddddddddddddddddddddddddddddddddddddddddddddddddddd
+  Shift crypt: 
+Numeric crypt: 121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121
+======================================================================
+ Message text: zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+ Message code: 122
+   Pair crypt: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  Shift crypt: 
+Numeric crypt: 122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122
+======================================================================
+ Message text: 111111111111111111111111111111111111111111111111111
+ Message code: 49
+   Pair crypt: 555555555555555555555555555555555555555555555555555
+  Shift crypt: 333333333333333333333333333333333333333333333333333
+Numeric crypt: 494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949
+======================================================================
+ Message text: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Message code: 120
+   Pair crypt: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+  Shift crypt: }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+Numeric crypt: 121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212
+======================================================================

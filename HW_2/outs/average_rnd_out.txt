@@ -1,0 +1,43 @@
+======================================================================
+ Message text: FleUbYrSluouYEjWo8L EuVmW 0n
+ Message code: 88
+   Pair crypt: VYtK3DqpYJiJDUyNiHX UJLxN 8f
+  Shift crypt: FleUbYrSluouYEjWo8L EuVmW 0n
+Numeric crypt: 7181185988911483181171111178969168711156763269117861987324811
+======================================================================
+ Message text: 2RylvIuFMZE2RySQ6e QUWKUf6c54xm
+ Message code: 83
+   Pair crypt: 4PdYMBJVZEU4Pdpg7t gKNzKW7s6Omx
+  Shift crypt: 0PwjtGsDKXC0PwQO4cOSUISd4a32vk
+Numeric crypt: 58212118118731177779695821218381541132818587758512549953521219
+======================================================================
+ Message text: q N3YroIulCZpQ 7AM
+ Message code: 81
+   Pair crypt: a F1DqiBJYSEGg oRZ
+  Shift crypt: nK0VolFri@WmN4>J
+Numeric crypt: 1133278518911411173117186791128132556577
+======================================================================
+ Message text: JVzyDUVnnto2BASe3CLZW cmygQu3RDSCFvR08X 
+ Message code: 83
+   Pair crypt: cLedTKLffki42Rpt1SXEN sxdwgJ1PTpSVMP8Hl 
+  Shift crypt: DPts>OPhhni,<;M_-=FTQ]gsaKo-L>M=@pL*2R
+Numeric crypt: 748612212168858611111161115666583115167769873299191211381117518268836771188248568832
+======================================================================
+ Message text: cQjlHbf9La6JinH1c5IhAEd7QfrXSU2H
+ Message code: 82
+   Pair crypt: sgyY03WhXr7c9f05s6BbRUuogWqlpK40
+  Shift crypt: YG`b>X\/BW,@_d>'Y+?^7;Z-G\hNIK(>
+Numeric crypt: 998116187298125776975474151172499953731465691558112114888385572
+======================================================================
+ Message text: QMpGOv ZXptZv
+ Message code: 91
+   Pair crypt: gZGvIM ElGkEM
+  Shift crypt: ZVyPX)cay}c
+Numeric crypt: 81771127179118329881121169118
+======================================================================
+ Message text: qq Cpg59qOIf
+ Message code: 84
+   Pair crypt: aa SGw6haIBW
+  Shift crypt: hh:g^,0hF@]
+Numeric crypt: 1131133267112135357113797312
+======================================================================

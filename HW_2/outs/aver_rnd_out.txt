@@ -1,0 +1,73 @@
+======================================================================
+ Message text: CGTxoVSGmZD Ek5aczRXW
+ Message code: 85
+   Pair crypt: SvjmiLpvxET UC6rsePlN
+  Shift crypt: EIVzqXUIo\F"Gm7ce|TZY
+Numeric crypt: 6771841211186837119968326917539799122828887
+======================================================================
+ Message text: j5UjDAONcToF8fpwgJbpwdPCTF41GJ4cDtW8jk8uKQeCWAms
+ Message code: 85
+   Pair crypt: y6KyTRIFsjiVHWGnwc3GnuASjVO5vcOsTkNHyCHJzgtSNRxQ
+  Shift crypt: l7WlFCQPeVqH:hryiLdryfREVH63IL6eFvY:lm:wMSgEYCou
+Numeric crypt: 1653851668657978998411175612112119137498112119186784752497174529968116875616175611775811167876519115
+======================================================================
+ Message text: UQbirlnGZqjyR uTmx1mJTR3NE
+ Message code: 90
+   Pair crypt: Kg39qYfvEaydP Jjxm5xcjP1FU
+  Shift crypt: YUfmvprK^un}V$yXq|5qNXV7RI
+Numeric crypt: 8581981511418117191131612182321178419124919748482517869
+======================================================================
+ Message text: jiBFk bqdZEsQMYYjDVDYZHZSoZJIyn8to3nre
+ Message code: 89
+   Pair crypt: y92VC 3auEUQgZDDyTLTDE0EpiEcBdfHki1fqt
+  Shift crypt: kjCGl!cre[FtRNZZkEWEZ[I[Tp[KJzo9up4osf
+Numeric crypt: 16156671732981131969115817789891668866889972983111974731211156116111511111411
+======================================================================
+ Message text: thABcN5rti
+ Message code: 91
+   Pair crypt: kbR2sF6qk9
+  Shift crypt: pd=>_J1npe
+Numeric crypt: 11614656699785311411615
+======================================================================
+ Message text: aYaj enrwwTQS0iXGMm9UxBfH69z3kd1
+ Message code: 86
+   Pair crypt: rDry tfqnnjgp89lvZxhKm2W07he1Cu5
+  Shift crypt: jbjs)nw{ÄÄ]Z\9raPVvB^ÅKoQ?BÉ<tm:
+Numeric crypt: 9789971632111111411911984818348158871771957851266127254571225117149
+======================================================================
+ Message text: 0A1weec2Gduaq1KBkzP4rrP1zq0TQ2JygvhvPEctHP iCzpK
+ Message code: 87
+   Pair crypt: 8R5ntts4vuJra5z2CeAOqqA5ea8jg4cdwMbMAUsk0A 9SeGz
+  Shift crypt: 4E5{iig6Khyeu5OFo~T8vvT5~u4XU6N}kzlzTIgxLT$mG~tO
+Numeric crypt: 4865491191111995711117971134975661712285211411484912211348848157412113118141188699911672832156712211275
+======================================================================
+ Message text: sCZulC XtowC4NcjWL2MVA XzR6dhJpMHR7KnNZhjvOLZMlzh
+ Message code: 87
+   Pair crypt: QSEJYS lkinSOFsyNX4ZLR leP7ubcGZ0PozfFEbyMIXEZYeb
+  Shift crypt: m=Tof=Rniq=.H]dQF,GP;RtL0^bDjGBL1EhHTbdpIFTGftb
+Numeric crypt: 115679117186732881161111196752789916877657786653288122825411474112777282557511789141611879769771812214
+======================================================================
+ Message text: SrxejXpMBZcwCZdBLH  xw3KddnXG8sShJPTr
+ Message code: 87
+   Pair crypt: pqmtylGZ2EsnSEu2X0  mn1zuuflvHQpbcAjq
+  Shift crypt: Xw}jo]uRG_h|H_iGQM%}|8Piis]L=xXmOUYw
+Numeric crypt: 83114121116881127766999119679166767232321211951751111887156115831474884114
+======================================================================
+ Message text: InJTzFR95GsXAldPniZU9YDOx7oUMTqN4jqIjHUi6V
+ Message code: 85
+   Pair crypt: BfcjeVPh6vQlRYuAf9EKhDTImoiKZjaFOyaBy0K97L
+  Shift crypt: GlHRxDP73EqV?jbNlgXS7WBMv5mSKRoL2hoGhFSg4T
+Numeric crypt: 7311748412278257537111588651818111598557896879125511185778411378521611373167285155486
+======================================================================
+ Message text: Fm3LOgj
+ Message code: 84
+   Pair crypt: Vx1XIwy
+  Shift crypt: ?f,EH`c
+Numeric crypt: 7195176791316
+======================================================================
+ Message text:  jQoh9hUzx
+ Message code: 92
+   Pair crypt:  ygibhbKem
+  Shift crypt: fMkd5dQvt
+Numeric crypt: 3216811111457148512212
+======================================================================

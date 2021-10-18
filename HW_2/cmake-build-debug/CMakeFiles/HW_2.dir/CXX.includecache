@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+//wsl$/Ubuntu/home/futuzer/HW_2/container.cpp
+container.h
+//wsl$/Ubuntu/home/futuzer/HW_2/container.h
+stdio.h
+//wsl$/Ubuntu/home/futuzer/HW_2/stdio.h
+crypter.cpp
+//wsl$/Ubuntu/home/futuzer/HW_2/crypter.cpp
+
+//wsl$/Ubuntu/home/futuzer/HW_2/container.h
+crypter.h
+//wsl$/Ubuntu/home/futuzer/HW_2/crypter.h
+stdio.h
+//wsl$/Ubuntu/home/futuzer/HW_2/stdio.h
+
+//wsl$/Ubuntu/home/futuzer/HW_2/crypter.cpp
+crypter.h
+//wsl$/Ubuntu/home/futuzer/HW_2/crypter.h
+string.h
+//wsl$/Ubuntu/home/futuzer/HW_2/string.h
+
+//wsl$/Ubuntu/home/futuzer/HW_2/crypter.h
+stdio.h
+//wsl$/Ubuntu/home/futuzer/HW_2/stdio.h
+rnd.h
+//wsl$/Ubuntu/home/futuzer/HW_2/rnd.h
+
+//wsl$/Ubuntu/home/futuzer/HW_2/main.cpp
+stdio.h
+//wsl$/Ubuntu/home/futuzer/HW_2/stdio.h
+container.cpp
+//wsl$/Ubuntu/home/futuzer/HW_2/container.cpp
+
+//wsl$/Ubuntu/home/futuzer/HW_2/rnd.h
+stdlib.h
+//wsl$/Ubuntu/home/futuzer/HW_2/stdlib.h
+time.h
+//wsl$/Ubuntu/home/futuzer/HW_2/time.h
+

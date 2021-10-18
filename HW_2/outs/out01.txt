@@ -1,0 +1,43 @@
+======================================================================
+ Message text: Thanks for playing
+ Message code: 98
+   Pair crypt: jbrfCQ Wiq GYrd9fw
+  Shift crypt: \pivs{(nwz(xtiÅqvo
+Numeric crypt: 84149711171153212111114321121897121151113
+======================================================================
+ Message text: Zero function
+ Message code: 101
+   Pair crypt: Etqi WJfsk9if
+  Shift crypt: bmzw(n}vk|qwv
+Numeric crypt: 911114111321211711991161511111
+======================================================================
+ Message text: 88_Destroyer_88 GG
+ Message code: 86
+   Pair crypt: HHÃTtQkqidtqÃHH vv
+  Shift crypt: 66]Bcqrpmwcp]66EE
+Numeric crypt: 565695681111511611411112111114955656327171
+======================================================================
+ Message text: Lorem ipsum dolor sit amet consectetur adipisicing elit Quod sunt minima consectetur sit ut totam reiciendis optio dolorum numquam natus saepe Dignissimosaccusamus repudiandae eligendi nemo Consequuntur nobis laudantium necessitatibus
+ Message code: 98
+   Pair crypt: Xiqtx 9GQJx uiYiq Q9k rxtk sifQtsktkJq ru9G9Q9s9fw tY9k gJiu QJfk x9f9xr sifQtsktkJq Q9k Jk kikrx qt9s9tfu9Q iGk9i uiYiqJx fJxaJrx frkJQ QrtGt T9wf9QQ9xiQrssJQrxJQ qtGJu9rfurt tY9wtfu9 ftxi SifQtaJJfkJq fi39Q YrJurfk9Jx ftstQQ9krk93JQ
+  Shift crypt: Fil_gcjmog^ifilmcn[g_n]ihm_]n_nol[^cjcmc]cha_fcnKoi^mohngchcg[]ihm_]n_nolmcnonnin[gl_c]c_h^cmijnci^ifiloghogko[gh[nomm[_j_>cahcmmcgim[]]om[goml_jo^c[h^[__fca_h^ch_gi=ihm_koohnolhi\cmf[o^[hncogh_]_mmcn[nc\om
+Numeric crypt: 761111141119321511211511719321111181111143211515116329719111163299111111151199116111161171143297115112151151599151113321118151163281117111132115117111163219151115199732991111111511991161111611711432115151163211711632116111116971932114111599151111115115321111121161511132111118111114117193211117191131179719321197116117115321159711112113268151311151151151519111115979999117115971911711532114111121171159711197113211181513111111532111119111326711111115111131171171111611711432111119815115321897117197111161511719321111991111511515116971161598117115
+======================================================================
+ Message text: Text here should be encrypted
+ Message code: 96
+   Pair crypt: jtmk btqt QbiJYu 3t tfsqdGktu
+  Shift crypt: \mÄ|(pmzm({pw}tl(jm(mvkzÅx|ml
+Numeric crypt: 84111211632141111411321151411111718132981132111199114121112116111
+======================================================================
+ Message text: I am not supposed to survive
+ Message code: 95
+   Pair crypt: B rx fik QJGGiQtu ki QJqM9Mt
+  Shift crypt: H`lmnsrtoonrdcsnrtquhud
+Numeric crypt: 7332971932111111163211511711211211111511132116111321151171141181511811
+======================================================================
+ Message text: 99888 It is my fault 667
+ Message code: 74
+   Pair crypt: hhHHH Bk 9Q xd WrJYk 77o
+  Shift crypt: 00///@k`jdp]Xlck--.
+Numeric crypt: 57575656563273116321511532191213212971171811632545455
+======================================================================
