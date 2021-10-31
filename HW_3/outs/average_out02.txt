@@ -1,0 +1,19 @@
+======================================================================
+ Message text: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+ Message code: 121
+   Pair crypt: ddddddddddddddddddddddddddddddddddddddddddddddddddd
+  Shift crypt: }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+Numeric crypt: 121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121121
+======================================================================
+ Message text: zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+ Message code: 122
+   Pair crypt: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  Shift crypt: vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Numeric crypt: 122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122122
+======================================================================
+ Message text: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Message code: 120
+   Pair crypt: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+  Shift crypt: }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+Numeric crypt: 120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120120
+======================================================================
