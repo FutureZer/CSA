@@ -1,13 +1,0 @@
-======================================================================
- Message text: YPjeG1XD TlcqJewo0cV
- Message code: 86
-   Pair crypt: DAytv5lT jYsactni8sL
-  Shift crypt: \SmhJ4[G#WoftMhzr3fY
-Numeric crypt: 89801061017149886832841089911374101119111489986
-======================================================================
- Message text: Jpq37xezYAkVE35FrG2Z5rifgXclr0RDVooqVtLASHW9qtnhVxAtHZt LKr6nvGeem9bK0gV2MGjlyz IgZWpwXiOXKDOTobG9H8
- Message code: 87
-   Pair crypt: cGa1omteDRCLU16Vqv4E6q9WwlsYq8PTLiiaLkXRp0NhakfbLmRk0Ek Xzq7fMvttxh3z8wL4ZvyYde BwENGnl9IlzTIji3vh0H
-  Shift crypt: Flm/3tavU=gRA/1BnC.V1nebcT_hn,N@RkkmRpH=ODS5mpjdRt=pDVpHGn2jrCaai5^G,cR.ICfhuvEcVSlsTeKTG@KPk^C5D4
-Numeric crypt: 741121135155120101122896510786695153701147150905311410510210388991081144882688611111111386116766583728757113116110104861206511672901163276751145411011871101101109579875481038650777110610812112232731039087112119881057988756879841119871577256
-======================================================================

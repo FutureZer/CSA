@@ -1,43 +1,0 @@
-======================================================================
- Message text: My text here
- Message code: 94
-   Pair crypt: Zd ktmk btqt
-  Shift crypt: Hto`soc`m`
-Numeric crypt: 771213211610112011632104101114101
-======================================================================
- Message text: It is a new way to see code in python
- Message code: 89
-   Pair crypt: Bk 9Q r ftn nrd ki Qtt siut 9f Gdkbif
-  Shift crypt: Mx$mw$e$ri{${e}$xs$wii$gshi$mr$t}xlsr
-Numeric crypt: 73116321051153297321101011193211997121321161113211510110132991111001013210511032112121116104111110
-======================================================================
- Message text: 8I want to create something special8
- Message code: 93
-   Pair crypt: HB nrfk ki sqtrkt Qixtkb9fw QGts9rYH
-  Shift crypt: 7Hv`mssnbqd`sdrnldsghmfrodbh`k7
-Numeric crypt: 56733211997110116321161113299114101971161013211511110910111610410511010332115112101991059710856
-======================================================================
- Message text: Lorem ipsum dolor sit amet consectetur adipisicing elit Quod sunt minima consectetur sit ut totam reiciendis optio dolorum numquam natus saepe Dignissimosaccusamus repudiandae eligendi nemo Consequuntur nobis laudantium necessitatibus
- Message code: 98
-   Pair crypt: Xiqtx 9GQJx uiYiq Q9k rxtk sifQtsktkJq ru9G9Q9s9fw tY9k gJiu QJfk x9f9xr sifQtsktkJq Q9k Jk kikrx qt9s9tfu9Q iGk9i uiYiqJx fJxaJrx frkJQ QrtGt T9wf9QQ9xiQrssJQrxJQ qtGJu9rfurt tY9wtfu9 ftxi SifQtaJJfkJq fi39Q YrJurfk9Jx ftstQQ9krk93JQ
-  Shift crypt: Mpsfn!jqtvn!epmps!tju!bnfu!dpotfdufuvs!bejqjtjdjoh!fmju!Rvpe!tvou!njojnb!dpotfdufuvs!tju!vu!upubn!sfjdjfoejt!pqujp!epmpsvn!ovnrvbn!obuvt!tbfqf!Ejhojttjnptbddvtbnvt!sfqvejboebf!fmjhfoej!ofnp!Dpotfrvvouvs!opcjt!mbveboujvn!ofdfttjubujcvt
-Numeric crypt: 761111141011093210511211511710932100111108111114321151051163297109101116329911111011510199116101116117114329710010511210511510599105110103321011081051163281117111100321151171101163210910511010510997329911111011510199116101116117114321151051163211711632116111116971093211410110599105101110100105115321111121161051113210011110811111411710932110117109113117971093211097116117115321159710111210132681051031101051151151051091111159799991171159710911711532114101112117100105971101009710132101108105103101110100105321101011091113267111110115101113117117110116117114321101119810511532108971171009711011610511710932110101991011151151051169711610598117115
-======================================================================
- Message text: Text here should be encrypted
- Message code: 96
-   Pair crypt: jtmk btqt QbiJYu 3t tfsqdGktu
-  Shift crypt: Sdwsgdqdrgntkcaddmbqxosdc
-Numeric crypt: 84101120116321041011141013211510411111710810032981013210111099114121112116101100
-======================================================================
- Message text: I am not supposed to survive
- Message code: 95
-   Pair crypt: B rx fik QJGGiQtu ki QJqM9Mt
-  Shift crypt: K"co"pqv"uwrrqugf"vq"uwtxkxg
-Numeric crypt: 73329710932110111116321151171121121111151011003211611132115117114118105118101
-======================================================================
- Message text: 99888 It is my fault 667
- Message code: 74
-   Pair crypt: hhHHH Bk 9Q xd WrJYk 77o
-  Shift crypt: 77666Grgqkwd_sjr445
-Numeric crypt: 575756565632731163210511532109121321029711710811632545455
-======================================================================
